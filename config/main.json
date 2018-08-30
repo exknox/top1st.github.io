@@ -79,6 +79,7 @@
     { "addr": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e", "name": "SWFTC", "fullName": "SwftCoin", "decimals": 8 },
     { "addr": "0x0bee5ca8dda2c0b8edd1c4369f7cc35d243e547f", "name": "VCA", "fullName": "Virtual Cash", "decimals": 8 },
     { "addr": "0x0c6c9beeeb5de377210930f09a7ac9a99ff5e981", "name": "EZEC", "fullName": "eZCash", "decimals": 18 },
+    { "addr": "0xcb5e39c946ace85d6003c791ef445dd2629c2003", "name": "EKX", "fullName": "ExKnox", "decimals": 8 },
     { "addr": "0x0cf0ee63788a0849fe5297f3407f701e122cc023", "name": "DATA", "fullName": "DATAcoin", "decimals": 18 },
     { "addr": "0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4", "name": "J8T", "fullName": "J8T Token", "decimals": 8 },
     { "addr": "0x0d8775f648430679a709e98d2b0cb6250d2887ef", "name": "BAT", "fullName": "Basic Attention Token", "decimals": 18 },
